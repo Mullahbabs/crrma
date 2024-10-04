@@ -278,12 +278,12 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-end;
-    background: linear-gradient(rgba(52, 173, 84, 0), rgba(52, 173, 84, 1));
+    background: linear-gradient(rgba(52, 173, 84, 0),#007FFF(52, 173, 84, 1));
     z-index: 1;
 }
 
 .bg-footer {
-    background: linear-gradient(rgba(52, 173, 84, .7), rgba(52, 173, 84, .7)), url(../img/crrm\ slide.jpg) center bottom no-repeat;
+    background: linear-gradient(#007FFF(52, 173, 84, .7), #007FFF(52, 173, 84, .7)), url(../img/crrm\ slide.jpg) center bottom no-repeat;
     background-size: contain;
 }
 
